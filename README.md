@@ -165,3 +165,14 @@ Some CI jobs, like deploying to sandboxes or production orgs, require your commi
 However, that is configurable in the gitlab-ci.yml file referenced in the CI/CD template.
 
 ![Completed pipeline](images/completed-pipeline.png)
+
+
+
+
+
+
+
+
+
+
+This is newly added line for git mirroring testing
